@@ -1,5 +1,5 @@
 
-proc import datafile="M:\\RESPOND\\2010\\CT\\all_statesCT_omitNA.csv"
+proc import datafile="Path"
 out=ex7_CPIC
 dbms=csv
 replace;
